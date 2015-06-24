@@ -1,0 +1,11 @@
+commit 105e3e774dde497178d49c08ce4cc80a271f5b70
+Author: Marcelo Peralta <ezcajo41@yahoo.com.ar>
+Date:   Wed Jun 24 10:24:47 2015 -0300
+
+    Color de fondo
+
+commit 03c0f076f6fc5419c4000dab74324a9026738b88
+Author: unknown <Administrador@.(none)>
+Date:   Wed Jun 24 10:18:34 2015 -0300
+
+    Primera subida del proyecto
