@@ -17,3 +17,13 @@ body {
       display: inline-block;
     width: 40%;
 }
+h1 {
+    color: plum;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: aquamarine;
+    margin: 0 200px;
+}
+h2 {
+    color: blueviolet;
+}
