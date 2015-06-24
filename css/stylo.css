@@ -1,0 +1,17 @@
+
+#contenedor {
+    width: 80%;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 10px
+}
+
+.caja1 {
+    display: inline-block;
+    width: 40%;
+}
+
+.caja2 {
+      display: inline-block;
+    width: 40%;
+}
